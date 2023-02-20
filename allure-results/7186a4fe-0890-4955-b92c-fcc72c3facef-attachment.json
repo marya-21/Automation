@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#filter-list-training-course_SEARCH_COURSECODE\"}\n  (Session info: chrome=110.0.5481.97)",
+  "stacktrace": "Backtrace:\n\t(No symbol) [0x00AD37D3]\n\t(No symbol) [0x00A68B81]\n\t(No symbol) [0x0096B36D]\n\t(No symbol) [0x0099D382]\n\t(No symbol) [0x0099D4BB]\n\t(No symbol) [0x009D3302]\n\t(No symbol) [0x009BB464]\n\t(No symbol) [0x009D1215]\n\t(No symbol) [0x009BB216]\n\t(No symbol) [0x00990D97]\n\t(No symbol) [0x0099253D]\n\tGetHandleVerifier [0x00D4ABF2+2510930]\n\tGetHandleVerifier [0x00D78EC1+2700065]\n\tGetHandleVerifier [0x00D7C86C+2714828]\n\tGetHandleVerifier [0x00B83480+645344]\n\t(No symbol) [0x00A70FD2]\n\t(No symbol) [0x00A76C68]\n\t(No symbol) [0x00A76D4B]\n\t(No symbol) [0x00A80D6B]\n\tBaseThreadInitThunk [0x764700F9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77547BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77547B8E+238]\n"
+}
